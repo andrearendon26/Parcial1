@@ -1,0 +1,48 @@
+#navbar {
+    position: absolute;
+    left: 70%;
+    transform: translateX(45%);
+    padding: 0 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.color{
+    background-color: red;
+    
+}
+
+.externo {
+    align-items: center;
+    display: flex;
+    justify-content:left;
+    text-align: center;
+}
+
+
+.footer {
+    background: red;
+    color: white;
+    height: auto;
+    width: 95%;
+    bottom: 0px;
+    position:relative;
+}
+
+
+.HV {
+
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    
+}
+
+#imagen{
+    padding: 0 40px;
+}
+
+.posicion{
+    margin-left: 10%;
+    padding: 0 40px;
+}
